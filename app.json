@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Chord-Finder-App",
+    "slug": "Chord-Finder-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Chord-Finder-App"
+}
