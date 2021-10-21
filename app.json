@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Chord Finder App",
+    "githubUrl": "https://github.com/j-r-development/Chord-Finder-App"
   }
 }
